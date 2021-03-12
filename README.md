@@ -24,3 +24,6 @@
   - JS 로직 파일
   - 알고리즘과 관련된 코딩문제 3개
 
+
+## 폴더구조
+![](https://user-images.githubusercontent.com/42370712/110914577-e6a78b80-8359-11eb-83ad-17635dbd560a.png)
